@@ -28,7 +28,7 @@ public interface SudokuGame
 	
 	
 	/**
-	 * Joins in a game.
+	 * Joins in a game    .
 	 * @param _game_name a String, the sudoku game name.
 	 * @param _nickname a String, the name of the user.
 	 * @return true if the join success, false otherwise.
